@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
-        features = "src/test/resources/features/phptravels_Add_Founds.feature",
+        features = "src/test/resources/features/phptravels_SignUp_Agent_Account.feature",
         glue = "co/com/phptravels/stepdefinitions",
         snippets = CucumberOptions.SnippetType.CAMELCASE
 )

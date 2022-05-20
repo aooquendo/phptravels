@@ -1,7 +1,9 @@
 package co.com.phptravels.pages;
 
 import net.serenitybdd.core.pages.PageObject;
+import net.serenitybdd.core.pages.WebElementFacade;
 import net.thucydides.core.annotations.DefaultUrl;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
@@ -23,8 +25,14 @@ public class signUp_Page extends PageObject {
     @FindBy(xpath = "//*[contains(@name, 'password')]")
     WebElement passwordBox;
 
-    @FindBy(xpath = "//*[contains(text(), 'submit')]")
+    @FindBy(xpath = "//*[contains(@type, 'submit')]")
     WebElement btnSigUp;
+
+    @FindBy(id = "select2-account_type-container")
+    WebElement typeAccount;
+
+    @FindBy(className = "select2-search__field")
+    WebElement textAccount;
 
 
     public void setNameBox(String name){
@@ -49,5 +57,11 @@ public class signUp_Page extends PageObject {
 
     public void clickSignUpButton(){
         btnSigUp.click();
+    }
+
+    public void selectAccountType(){
+        typeAccount.click();
+        textAccount.sendKeys("Agent");
+        textAccount.sendKeys(Keys.ENTER);
     }
 }
