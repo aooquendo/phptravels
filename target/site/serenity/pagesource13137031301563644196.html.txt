@@ -1,0 +1,955 @@
+<html lang="en"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta http-equiv="refresh" content="6000; https://www.phptravels.net/timeout">
+
+<!-- MEDA FOR SEARCH ENGINES AND SOCIAL PLATFORMS -->
+<meta property="og:title" content="Add funds">
+<meta property="og:site_name" content="PHPTRAVELS">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+<meta property="og:url" content="https://www.phptravels.net/account/add_funds">
+<meta property="og:publisher" content="PHPTRAVELS">
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Add funds">
+<meta name="twitter:title" content="Add funds">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="">
+
+<!-- GOOGLE JSON SCHEMA -->
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "Corporation",
+"brand": "Add funds",
+"description": "",
+"name" : "Add funds",
+"foundingDate": "2014-05",
+"knowsAbout": "Online Travel Agency",
+"legalName": "Add funds",
+"logo" : "https://www.phptravels.net/api/uploads/global/logo.png",
+"numberOfEmployees": "15",
+"ownershipFundingInfo": "https://www.phptravels.net/contact",
+"url" : "https://www.phptravels.net/account/add_funds",
+"slogan": "Online Tavel Booking Services",
+"tickerSymbol": [
+"NYSE:SHOP",
+"TSX:SHOP"
+]
+</script>
+
+
+<title>Add Funds - PHPTRAVELS</title>
+<base href="https://www.phptravels.net/">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/line-awesome.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/jquery.fancybox.min.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/animate.min.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/animated-headline.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/jquery-ui.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/flag-icon.min.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/style.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/style.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/mobile.css">
+<link rel="stylesheet" href="https://www.phptravels.net/app/themes/default/assets/css/childstyle.css">
+
+<script> var baseurl = "https://www.phptravels.net/"; </script>
+<link rel="shortcut icon" href="https://www.phptravels.net/api/uploads/global/favicon.png">
+<script src="https://www.phptravels.net/app/themes/default/assets/js/jquery/jquery.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&amp;display=swap" rel="stylesheet">
+
+
+<script>var root = 'https://www.phptravels.net/'</script>
+<style type="text/css"></style></head>
+<body id="fadein" onload="display_ct();">
+
+<!-- loading effect -->
+<!--<div class="preloader centerrotate" id="preloader">
+ <div class="rotatingDiv"></div>
+</div>-->
+
+<!-- ================================
+         START HEADER AREA
+================================= -->
+<header class="header-area">
+    <div class="header-top-bar padding-right-100px padding-left-100px" style="display: block;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="header-top-content">
+                        <div class="header-left">
+                            <ul class="list-items">
+                                <li><a href="tel:+1-234-56789" class=" waves-effect"> <i class="la la-phone mr-1"></i> +1-234-56789</a></li>
+                                <li><a href="mailto:info@travelagency.com" class=" waves-effect"><i class="la la-envelope mr-1"></i>info@travelagency.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div class="col-lg-6">
+                    <div class="header-top-content">
+                        <div class="header-right d-flex align-items-center justify-content-end">
+
+                                                        <div class="header-right-action pt-1 pe-2 multi_language">
+                            <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle waves-effect" type="button" id="languages" data-bs-toggle="dropdown" aria-expanded="false">
+                            <span class="flag-icon flag-icon-us mr-1"></span>
+                            English                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="languages">
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-tr"><span class="flag-icon flag-icon-tr mr-1"></span> Turkish</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-ru"><span class="flag-icon flag-icon-ru mr-1"></span> Russian</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-ph"><span class="flag-icon flag-icon-ph mr-1"></span> philippine</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-kr"><span class="flag-icon flag-icon-kr mr-1"></span> Korean</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-kh"><span class="flag-icon flag-icon-kh mr-1"></span> Khmer</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-id"><span class="flag-icon flag-icon-id mr-1"></span> indonesia</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-fr"><span class="flag-icon flag-icon-fr mr-1"></span> French</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-es"><span class="flag-icon flag-icon-es mr-1"></span> Spanish</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-en"><span class="flag-icon flag-icon-us mr-1"></span> English</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-de"><span class="flag-icon flag-icon-de mr-1"></span> German</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-cn"><span class="flag-icon flag-icon-cn mr-1"></span> Chinese</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/lang-ar"><span class="flag-icon flag-icon-sa mr-1"></span> Arabic</a></li>
+                                                        </ul>
+                            </div>
+                            </div>
+                            
+                                                        <div class="header-right-action  pt-1 pe-2 multi_currency">
+                            <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle waves-effect" type="button" id="currency" data-bs-toggle="dropdown" aria-expanded="false">
+                            USD                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="currency">
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-USD"> USD</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-GBP"> GBP</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-SAR"> SAR</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-EUR"> EUR</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-PKR"> PKR</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-JPY"> JPY</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-INR"> INR</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-CNY"> CNY</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-TRY"> TRY</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-RUB"> RUB</a></li>
+                                                        <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/currency-IRR"> IRR</a></li>
+                                                        </ul>
+                            </div>
+                            </div>
+                            
+                            
+                            <!-- customers registration and login -->
+                                                        <div class="header-right-action pt-1 pe-2">
+                            <div class="dropdown">
+                            <button class="btn btn-default dropdown-toggle waves-effect" type="button" id="currency" data-bs-toggle="dropdown" aria-expanded="false">
+                            Account                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="currency">
+                            <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/account/dashboard"> Dashboard</a></li>
+                            <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/account/bookings"> My Bookings</a></li>
+                            <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/account/add_funds"> Add Funds</a></li>
+                            <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/account/profile"> My Profile</a></li>
+                            <li><a class="dropdown-item waves-effect" href="https://www.phptravels.net/account/logout"> Logout</a></li>
+                            </ul>
+                            </div>
+                            </div>
+                                                    </div>
+                        <!-- end nav-btn -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-menu-wrapper padding-right-100px padding-left-100px">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="menu-wrapper">
+                        <script>
+                        function takeup() {
+                            window.scrollTo({top: 0, behavior: 'smooth'});
+                        }
+                        </script>
+                        <a href="javascript:void(0)" onclick="takeup();" class="down-button waves-effect"><i class="la la-angle-down"></i></a>
+                        <div class="logo">
+                            <a href="https://www.phptravels.net/" style="border-radius:5px" class=" waves-effect">
+                            <img style="max-height:40px;border-radius:5px;background:transparent;padding:4px;" src="https://www.phptravels.net/api/uploads/global/logo.png" alt="logo">
+                            </a>
+                            <div class="menu-toggler">
+                                <i class="la la-bars"></i>
+                                <i class="la la-times"></i>
+                            </div>
+                        </div>
+                        <div class="main-menu-content">
+                            <nav>
+                                <ul>
+                                    <li><a href="https://www.phptravels.net/" title="home" class=" waves-effect">Home</a></li>
+                                    
+                                                                        <li><a href="https://www.phptravels.net/hotels" title="home" class=" waves-effect">Hotels</a></li>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                                                        <li><a href="https://www.phptravels.net/flights" title="home" class=" waves-effect">flights</a></li>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                                                        <li><a href="https://www.phptravels.net/tours" title="home" class=" waves-effect">Tours</a></li>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                                                        <li><a href="https://www.phptravels.net/visa" title="home" class=" waves-effect">visa</a></li>
+                                    
+                                                                        <li><a href="https://www.phptravels.net/blog" title="blog" class=" waves-effect">Blog</a></li>
+                                    
+                                                                        <li><a href="https://www.phptravels.net/offers" title="offers" class=" waves-effect">Offers</a></li>
+                                    
+                                    <!-- header manue -->
+                                                                        <li class="footm">
+                                                                        <a href="company" class=" waves-effect">Company <i class="la la-angle-down"></i><button class="drop-menu-toggler" type="button"><i class="la la-angle-down"></i></button></a>
+                                                                                                            <ul class="dropdown-menu-item">
+                                                                        <li><a href="https://www.phptravels.net/about-us" class=" waves-effect">About Us</a></li>                                    <li><a href="https://www.phptravels.net/terms-of-use" class=" waves-effect">Terms of Use</a></li>                                    <li><a href="https://www.phptravels.net/faq" class=" waves-effect">FAQ</a></li>                                    <li><a href="https://www.phptravels.net/how-to-book" class=" waves-effect">How to Book</a></li>                                    </ul>                                     </li>                                 </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- ================================
+         END HEADER AREA
+================================= -->
+<!-- ================================
+       START DASHBOARD NAV
+================================= -->
+<div class="sidebar-nav" style="margin-top: 50px;z-index:1">
+    <div class="sidebar-nav-body">
+        <div class="side-menu-close">
+            <i class="la la-times"></i>
+        </div><!-- end menu-toggler -->
+        <div class="author-content" style="padding-top: 40px !important;">
+            <div class="d-flex align-items-center">
+                <div class="author-img avatar-sm">
+                    <img src="https://www.phptravels.net/app/themes/default/assets/img/user.png" alt="user" style="height:auto">
+                </div>
+                <div class="author-bio">
+                    <h4 class="author__title"><strong style="text-transform:capitalize">Demo</strong></h4>
+                    <span class="author__meta">Welcome Back</span>
+                </div>
+            </div>
+        </div>
+        <div class="sidebar-menu-wrap">
+            <ul class="sidebar-menu list-items">
+                <li class=""><a href="https://www.phptravels.net/account/dashboard" class=" waves-effect"><i class="la la-dashboard mr-2"></i> Dashboard</a></li>
+                <li class=""><a href="https://www.phptravels.net/account/bookings" class=" waves-effect"><i class="la la-shopping-cart mr-2 text-color-3"></i> My Bookings</a></li>
+                <li class="user_wallet page-active"><a href="https://www.phptravels.net/account/add_funds" class=" waves-effect"><i class="la la-wallet mr-2 text-color-9"></i> Add Funds</a></li>
+                <li class=""><a href="https://www.phptravels.net/account/profile" class=" waves-effect"><i class="la la-user mr-2 text-color-2"></i> My Profile</a></li>
+                <!--<li><a href="user-dashboard-reviews.html"><i class="la la-star mr-2 text-color-3"></i>My Reviews</a></li>
+                <li><a href="user-dashboard-wishlist.html"><i class="la la-heart mr-2 text-color-4"></i>Wishlist</a></li>
+                <li><a href="user-dashboard-settings.html"><i class="la la-cog mr-2 text-color-5"></i>Settings</a></li>-->
+                <li><a href="https://www.phptravels.net/account/logout" class=" waves-effect"><i class="la la-power-off mr-2 text-color-6"></i> Logout</a></li>
+            </ul>
+        </div><!-- end sidebar-menu-wrap -->
+    </div>
+</div><!-- end sidebar-nav -->
+<!-- ================================
+       END DASHBOARD NAV
+================================= -->
+
+<style>
+.header-area{position:relative;z-index:9999;}
+.info-area.info-bg {display:none}
+.cta-area,.header-top-bar,.footer-area{display:none}
+.header-menu-wrapper{padding: 0 50px}
+</style>
+
+<script>
+function display_c(){
+var refresh=1000; // Refresh rate in milli seconds
+mytime=setTimeout('display_ct()',refresh)
+}
+
+function display_ct() {
+var x = new Date()
+document.getElementById('ct').innerHTML = x;
+display_c(); }
+
+// console.log(location.pathname.split("/")[2])
+</script>
+<!-- ================================
+    START DASHBOARD AREA
+================================= -->
+<section class="dashboard-area">
+    <div class="dashboard-content-wrap">
+        
+<div class="dashboard-bread">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="breadcrumb-content">
+                    <div class="section-heading">
+                        <h2 class="sec__title font-size-30 text-white">Hi, <span style="text-transform:capitalize">Demo</span> Welcome Back</h2>
+                    </div>
+                </div><!-- end breadcrumb-content -->
+            </div><!-- end col-lg-6 -->
+            <div class="col-lg-6">
+                <div class="breadcrumb-list text-right">
+                    <p style="font-weight:bold;color:#fff" id="ct">Thu May 19 2022 14:25:59 GMT-0500 (hora estándar de Colombia)</p>
+                </div><!-- end breadcrumb-list -->
+            </div><!-- end col-lg-6 -->
+        </div><!-- end row -->
+        <div class="row mt-4">
+            <div class="col-lg-3 responsive-column-m user_wallet">
+                <div class="icon-box icon-layout-2 dashboard-icon-box">
+                    <div class="d-flex">
+                        <div class="info-icon icon-element flex-shrink-0">
+                           <i class="la la-wallet"></i>
+                        </div><!-- end info-icon-->
+                        <div class="info-content">
+                            <p class="info__desc">Wallet Balance</p>
+                            <h4 class="info__title">USD 1500</h4>
+                        </div><!-- end info-content -->
+                    </div>
+                </div>
+            </div><!-- end col-lg-3 -->
+            <div class="col-lg-3 responsive-column-m">
+                <div class="icon-box icon-layout-2 dashboard-icon-box">
+                    <div class="d-flex">
+                        <div class="info-icon icon-element bg-2 flex-shrink-0">
+                           <i class="la la-shopping-cart"></i>
+                        </div><!-- end info-icon-->
+                        <div class="info-content">
+                            <p class="info__desc">Total Bookings</p>
+                            <h4 class="info__title">2</h4>
+                        </div><!-- end info-content -->
+                    </div>
+                </div>
+            </div><!-- end col-lg-3 -->
+            <div class="col-lg-3 responsive-column-m">
+                <div class="icon-box icon-layout-2 dashboard-icon-box">
+                    <div class="d-flex">
+                        <div class="info-icon icon-element bg-3 flex-shrink-0">
+                           <i class="la la-clock"></i>
+                        </div><!-- end info-icon-->
+                        <div class="info-content">
+                            <p class="info__desc">Pending Invoices</p>
+                            <h4 class="info__title">2</h4>
+                        </div><!-- end info-content -->
+                    </div>
+                </div>
+            </div><!-- end col-lg-3 -->
+            <div class="col-lg-3 responsive-column-m">
+                <div class="icon-box icon-layout-2 dashboard-icon-box">
+                    <div class="d-flex">
+                        <div class="info-icon icon-element bg-4 flex-shrink-0">
+                           <i class="la la-star"></i>
+                        </div><!-- end info-icon-->
+                        <div class="info-content">
+                            <p class="info__desc">Reviews</p>
+                            <h4 class="info__title">0</h4>
+                        </div><!-- end info-content -->
+                    </div>
+                </div>
+            </div><!-- end col-lg-3 -->
+        </div><!-- end row -->
+    </div>
+</div><!-- end dashboard-bread -->        <div class="dashboard-main-content">
+
+        <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="form-box">
+                            <div class="form-title-wrap">
+                                <div class="d-flex align-items-center justify-content-between">
+                                    <div class="d-block">
+                                        <h3 class="title">Add Funds</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-content">
+
+                                
+                                <form method="post" action="https://www.phptravels.net/payment">
+                                <input type="hidden" name="payload" value="eyJib29raW5nX2lkIjoiIiwiYm9va2luZ19ubyI6IiIsInN0YXR1cyI6IiIsImFtb3VudF9wYWlkIjoiIiwicmVtYWluaW5nX2Ftb3VudCI6IiIsInBheW1lbnRfZGF0ZSI6IjE5LTA1LTIwMjIiLCJ0eG5faWQiOiIiLCJ0b2tlbiI6IiIsImxvZ3MiOiIiLCJwYXltZW50X3N0YXR1cyI6InBhaWQiLCJjdXJyZW5jeSI6IlVTRCIsInByaWNlIjoiIiwiZGVzYyI6IldhbGxldCBCYWxhbmNlIiwiaW52b2ljZV91cmwiOiJodHRwczpcL1wvd3d3LnBocHRyYXZlbHMubmV0XC9hY2NvdW50XC9hZGRfZnVuZHMiLCJzdWNjZXNzX3VybCI6IiIsImNsaWVudF9lbWFpbCI6IiIsImJhbGFuY2UiOjE1MDAsInR5cGUiOiJ3YWxsZXQifQ==">
+
+                                <div class="row">
+
+                                <div class="col-md-9">
+                                <div class="form-box">
+<div class="form-title-wrap">
+    <h3 class="title">Payment Method</h3>
+</div><!-- form-title-wrap -->
+<div class="form-content">
+    <div class="section-tab check-mark-tab text-center pb-4">
+        <ul class="nav nav-tabs gateways row" id="myTab" role="tablist">
+
+        
+        <label style="width:100%" class="form-check-label" for="gateway_stripe">
+
+        <div class="col-md-12 mb-1 gateway_stripe">
+        <div class="form-check nav-link p-2 px-3 m-1 d-flex" style="justify-content: space-between;border-radius: 4px !important;">
+
+        <div class="d-flex mb-2 input" style="gap: 16px; align-items: center;">
+        <input checked="" class="form-check-input mx-auto" type="radio" name="payment_gateway" id="gateway_stripe" value="stripe" required="">
+        <span class="d-block pt-2">Pay With  <strong>stripe</strong></span>
+        </div>
+
+        <div class="d-block">
+        <img src="https://www.phptravels.net/app/themes/default/assets/img/gateways/stripe.png" style="max-height:40px;background:transparent" alt="stripe">
+        </div>
+        
+        </div>
+        </div>
+        
+        <label style="width:100%" class="form-check-label" for="gateway_paypal">
+
+        <div class="col-md-12 mb-1 gateway_paypal">
+        <div class="form-check nav-link p-2 px-3 m-1 d-flex" style="justify-content: space-between;border-radius: 4px !important;">
+
+        <div class="d-flex mb-2 input" style="gap: 16px; align-items: center;">
+        <input checked="" class="form-check-input mx-auto" type="radio" name="payment_gateway" id="gateway_paypal" value="paypal" required="">
+        <span class="d-block pt-2">Pay With  <strong>paypal</strong></span>
+        </div>
+
+        <div class="d-block">
+        <img src="https://www.phptravels.net/app/themes/default/assets/img/gateways/paypal.png" style="max-height:40px;background:transparent" alt="paypal">
+        </div>
+        
+        </div>
+        </div>
+        
+        <label style="width:100%" class="form-check-label" for="gateway_wallet-balance">
+
+        <div class="col-md-12 mb-1 gateway_wallet-balance">
+        <div class="form-check nav-link p-2 px-3 m-1 d-flex" style="justify-content: space-between;border-radius: 4px !important;">
+
+        <div class="d-flex mb-2 input" style="gap: 16px; align-items: center;">
+        <input checked="" class="form-check-input mx-auto" type="radio" name="payment_gateway" id="gateway_wallet-balance" value="wallet-balance" required="">
+        <span class="d-block pt-2">Pay With  <strong>wallet balance</strong></span>
+        </div>
+
+        <div class="d-block">
+        <img src="https://www.phptravels.net/app/themes/default/assets/img/gateways/wallet-balance.png" style="max-height:40px;background:transparent" alt="wallet-balance">
+        </div>
+        
+        </div>
+        </div>
+        
+        <label style="width:100%" class="form-check-label" for="gateway_pay-later">
+
+        <div class="col-md-12 mb-1 gateway_pay-later">
+        <div class="form-check nav-link p-2 px-3 m-1 d-flex" style="justify-content: space-between;border-radius: 4px !important;">
+
+        <div class="d-flex mb-2 input" style="gap: 16px; align-items: center;">
+        <input checked="" class="form-check-input mx-auto" type="radio" name="payment_gateway" id="gateway_pay-later" value="pay-later" required="">
+        <span class="d-block pt-2"> <strong>pay later</strong></span>
+        </div>
+
+        <div class="d-block">
+        <img src="https://www.phptravels.net/app/themes/default/assets/img/gateways/pay-later.png" style="max-height:40px;background:transparent" alt="pay-later">
+        </div>
+        
+        </div>
+        </div>
+        
+        <label style="width:100%" class="form-check-label" for="gateway_bank-transfer">
+
+        <div class="col-md-12 mb-1 gateway_bank-transfer">
+        <div class="form-check nav-link p-2 px-3 m-1 d-flex" style="justify-content: space-between;border-radius: 4px !important;">
+
+        <div class="d-flex mb-2 input" style="gap: 16px; align-items: center;">
+        <input checked="" class="form-check-input mx-auto" type="radio" name="payment_gateway" id="gateway_bank-transfer" value="bank-transfer" required="">
+        <span class="d-block pt-2">Pay With  <strong>bank transfer</strong></span>
+        </div>
+
+        <div class="d-block">
+        <img src="https://www.phptravels.net/app/themes/default/assets/img/gateways/bank-transfer.png" style="max-height:40px;background:transparent" alt="bank-transfer">
+        </div>
+        
+        </div>
+        </div>
+        
+        </label></label></label></label></label></ul>
+    </div><!-- end section-tab -->
+    <!--<div class="tab-content">
+        <div class="tab-pane fade show active" id="credit-card" role="tabpanel" aria-labelledby="credit-card-tab">
+            <div class="contact-form-action">
+                <form method="post">
+                    <div class="row">
+                        <div class="col-lg-6 responsive-column">
+                            <div class="input-box">
+                                <label class="label-text">Card Holder Name</label>
+                                <div class="form-group">
+                                    <span class="la la-credit-card form-icon"></span>
+                                    <input class="form-control" type="text" name="text" placeholder="Card holder name">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 responsive-column">
+                            <div class="input-box">
+                                <label class="label-text">Card Number</label>
+                                <div class="form-group">
+                                    <span class="la la-credit-card form-icon"></span>
+                                    <input class="form-control" type="text" name="text" placeholder="Card number">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="row">
+                                <div class="col-lg-6 responsive-column">
+                                    <div class="input-box">
+                                        <label class="label-text">Expiry Month</label>
+                                        <div class="form-group">
+                                            <span class="la la-credit-card form-icon"></span>
+                                            <input class="form-control" type="text" name="text" placeholder="MM">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 responsive-column">
+                                    <div class="input-box">
+                                        <label class="label-text">Expiry Year</label>
+                                        <div class="form-group">
+                                            <span class="la la-credit-card form-icon"></span>
+                                            <input class="form-control" type="text" name="text" placeholder="YY">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="input-box">
+                                <label class="label-text">CVV</label>
+                                <div class="form-group">
+                                    <span class="la la-pencil form-icon"></span>
+                                    <input class="form-control" type="text" name="text" placeholder="CVV">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="paypal" role="tabpanel" aria-labelledby="paypal-tab">
+            <div class="contact-form-action">
+                <form method="post">
+                    <div class="row">
+                        <div class="col-lg-6 responsive-column">
+                            <div class="input-box">
+                                <label class="label-text">Email Address</label>
+                                <div class="form-group">
+                                    <span class="la la-envelope form-icon"></span>
+                                    <input class="form-control" type="email" name="email" placeholder="Enter email address">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 responsive-column">
+                            <div class="input-box">
+                                <label class="label-text">Password</label>
+                                <div class="form-group">
+                                    <span class="la la-lock form-icon"></span>
+                                    <input class="form-control" type="text" name="text" placeholder="Enter password">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="btn-box">
+                                <button class="theme-btn" type="submit">Login Account</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="payoneer" role="tabpanel" aria-labelledby="payoneer-tab">
+            <div class="contact-form-action">
+                <form method="post">
+                    <div class="row">
+                        <div class="col-lg-6 responsive-column">
+                            <div class="input-box">
+                                <label class="label-text">Email Address</label>
+                                <div class="form-group">
+                                    <span class="la la-envelope form-icon"></span>
+                                    <input class="form-control" type="email" name="email" placeholder="Enter email address">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 responsive-column">
+                            <div class="input-box">
+                                <label class="label-text">Password</label>
+                                <div class="form-group">
+                                    <span class="la la-lock form-icon"></span>
+                                    <input class="form-control" type="text" name="text" placeholder="Enter password">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="btn-box">
+                                <button class="theme-btn" type="submit">Login Account</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>-->
+</div>
+</div><!-- end form-box -->                                </div>
+
+                                <div class="col-md-3 contact-form-action">
+                                <div class="col-md-12">
+                                <span class="input-label"><strong>Amount in USD</strong></span>
+                                <div class="form-group">
+                                <span class="form-icon" style="font-size: 14px; font-weight: bold; top: 14px;">USD</span>
+                                <input name="price" class="form-control form-control-lg" type="number" placeholder="" value="50" min="1" style="padding: 12px 20px 10px 48px; font-size: 16px;">
+                                </div>
+
+                                <button type="submit" class="btn btn-primary btn-block btn-lg my-3 waves-effect">Pay Now <i class="la la-arrow-right"></i></button>
+                                <hr>
+
+                                <ul style="font-size: 13px; line-height: 2;">
+                                <li><i class="la la-check text-success"></i> Select your payment method</li>
+                                <li><i class="la la-check text-success"></i> Add your amount</li>
+                                <li><i class="la la-check text-success"></i> Click on Pay Now</li>
+                                <li><i class="la la-check text-success"></i> Proceed to complete payment</li>
+                                </ul>
+
+                                </div>
+                                </div>
+
+                                </div>
+                                </form>
+                            </div>
+                        </div><!-- end form-box -->
+                    </div><!-- end col-lg-12 -->
+                </div><!-- end row -->
+                <div class="border-top mt-5"></div>
+            </div>
+        </div>
+    </div>
+</section>
+<style>
+.cta-area,.gateway_pay-later,.gateway_wallet-balance{display:none}
+</style><!-- loadaing CSS -->
+
+<!-- start back-to-top -->
+<div id="back-to-top">
+ <i class="la la-angle-up" title="Go top"></i>
+</div>
+<!-- end back-to-top -->
+
+<!-- ================================
+    START INFO AREA
+================================= -->
+<section class="info-area info-bg padding-top-90px padding-bottom-20px">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 responsive-column">
+                <a href="https://www.phptravels.net/contact" class="icon-box icon-layout-2 d-flex waves-effect">
+                    <div class="info-icon flex-shrink-0 bg-rgb text-color-2">
+                        <i class="la la-phone"></i>
+                    </div><!-- end info-icon-->
+                    <div class="info-content pt-2">
+                        <h4 class="info__title">Need Help? Contact us</h4>
+                        <p class="info__desc">
+                           Our support team available 24/7                        </p>
+                    </div><!-- end info-content -->
+                </a><!-- end icon-box -->
+            </div><!-- end col-lg-4 -->
+            <div class="col-lg-4 responsive-column">
+                <div class="icon-box icon-layout-2 d-flex">
+                    <div class="info-icon flex-shrink-0 bg-rgb-2 text-color-3">
+                        <i class="la la-money"></i>
+                    </div><!-- end info-icon-->
+                    <div class="info-content pt-2">
+                        <h4 class="info__title">Secure Payments</h4>
+                        <p class="info__desc">
+                           Remarkable and 99.9% service uptime                        </p>
+                    </div><!-- end info-content -->
+                </div><!-- end icon-box -->
+            </div><!-- end col-lg-4 -->
+            <div class="col-lg-4 responsive-column">
+                <div class="icon-box icon-layout-2 d-flex">
+                    <div class="info-icon flex-shrink-0 bg-rgb-3 text-color-4">
+                        <i class="la la-times"></i>
+                    </div><!-- end info-icon-->
+                    <div class="info-content pt-2">
+                        <h4 class="info__title">Cancel Policy</h4>
+                        <p class="info__desc">
+                           Cancellation made easy and automated                        </p>
+                    </div><!-- end info-content -->
+                </div><!-- end icon-box -->
+            </div><!-- end col-lg-4 -->
+        </div><!-- end row -->
+    </div><!-- end container -->
+</section><!-- end info-area -->
+<!-- ================================
+    END INFO AREA
+================================= -->
+
+
+<section class="cta-area subscriber-area section-bg-2 padding-top-60px padding-bottom-60px">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-7">
+                <div class="section-heading">
+                    <h2 class="sec__title font-size-30 text-white">Subscribe to see Secret Deals</h2>
+                </div><!-- end section-heading -->
+            </div><!-- end col-lg-7 -->
+            <div class="col-lg-5">
+                <div class="subscriber-box">
+                    <div class="contact-form-action">
+                        <!-- <form action="#"> -->
+                            <div class="input-box">
+                                <label class="label-text text-white">Enter email addresss</label>
+                                <div class="form-group mb-0">
+                                    <span class="la la-envelope form-icon"></span>
+                                    <form role="search" onsubmit="return false;"></form>
+                                    <input type="email" class="form-control sub_email" id="exampleInputEmail1" placeholder="Enter your email">
+                                    <button class="theme-btn theme-btn-small submit-btn sub_newsletter waves-effect" id="email_subscribe">Subscribe</button>
+                                    <span class="font-size-14 pt-1 text-white-50"><i class="la la-lock mr-1"></i>Don't worry your information is safe with us</span>
+                                    <span class="font-size-14 pt-1"><!--<i class="la la-lock mr-1"></i>-->
+                                    <a class="newstext waves-effect" href="javascript:void(0);">
+                                        <div class="wow fadeIn subscriberesponse"></div>
+                                    </a>
+                                    </span>
+                                </div>
+                            </div>
+                        <!-- </form> -->
+                    </div>
+                </div><!-- end section-heading -->
+            </div><!-- end col-lg-5 -->
+        </div><!-- end row -->
+    </div><!-- end container -->
+</section>
+
+<section class="footer-area section-bg padding-top-100px padding-bottom-30px">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 responsive-column">
+                <div class="footer-item">
+                    <div class="footer-logo padding-bottom-10px">
+                    <a href="https://www.phptravels.net/" class="foot__logo waves-effect"><img style="max-width: 150px;background:transparent" src="https://www.phptravels.net/api/uploads/global/logo.png" alt="logo"></a>
+                    </div><!-- end logo -->
+                    <ul class="list-items pt-3">
+                      <li><strong> +1-234-56789 </strong></li>
+                      <li><strong><a href="mailto:info@travelagency.com" class=" waves-effect">info@travelagency.com</a></strong></li>
+                      <li><a href="https://www.phptravels.net/contact" class=" waves-effect"><strong>Contact Us</strong></a></li>
+                    </ul>
+                </div><!-- end footer-item -->
+            </div><!-- end col-lg-3 -->
+
+            <div class="col-lg-9 responsive-column">
+            <ul class="foot_menu w-100">
+
+            <!-- header manue -->
+                        <li class="footm">
+                                    <a href="company" class=" waves-effect">Company <i class="la la-angle-down"></i></a>
+                                               <ul class="dropdown-menu-item">
+                        <li><a href="https://www.phptravels.net/about-us" class=" waves-effect">About Us</a>
+            </li>             <li><a href="https://www.phptravels.net/terms-of-use" class=" waves-effect">Terms of Use</a>
+            </li>             <li><a href="https://www.phptravels.net/cookies-policy" class=" waves-effect">Cookies policy</a>
+            </li>             <li><a href="https://www.phptravels.net/privacy-policy" class=" waves-effect">Privacy Policy</a>
+            </li>  </ul>              </li>             <li class="footm">
+                                    <a href="supprt" class=" waves-effect">Support <i class="la la-angle-down"></i></a>
+                                               <ul class="dropdown-menu-item">
+                        <li><a href="https://www.phptravels.net/become-supplier" class=" waves-effect">Become Supplier</a>
+            </li>             <li><a href="https://www.phptravels.net/faq" class=" waves-effect">FAQ</a>
+            </li>             <li><a href="https://www.phptravels.net/booking-tips" class=" waves-effect">Booking Tips</a>
+            </li>             <li><a href="https://www.phptravels.net/how-to-book" class=" waves-effect">How to Book</a>
+            </li>  </ul>              </li>             <li class="footm">
+                                    <a href="services" class=" waves-effect">Services <i class="la la-angle-down"></i></a>
+                                               <ul class="dropdown-menu-item">
+                        <li><a href="https://www.phptravels.net/file-a-claim" class=" waves-effect">File a claim</a>
+            </li>             <li><a href="https://www.phptravels.net/offers" class=" waves-effect">Last minute deals</a>
+            </li>             <li><a href="https://www.phptravels.net/signup-supplier" class=" waves-effect">Add your business</a>
+            </li>             <li><a href="https://www.phptravels.net/careers" class=" waves-effect">Careers and Jobs</a>
+            </li>  </ul>              </li>             </ul>
+            </div>
+
+        </div><!-- end row -->
+        <div class="row align-items-center">
+            <div class="col-lg-8">
+                <div class="term-box footer-item">
+                    <ul class="list-items list--items d-flex align-items-center">
+                     All Rights Reserved by All Rights Reserved by PHPTRAVELS                     </ul>
+                </div>
+            </div><!-- end col-lg-8 -->
+             <div class="col-lg-4">
+                <div class="footer-social-box text-right">
+                    <ul class="social-profile">
+                                        <li><a href="https://www.facebook.com/travelbusiness" target="_blank" class=" waves-effect"><i class="lab la-facebook"></i></a></li>
+                                        <li><a href="https://twitter.com/phptravels" target="_blank" class=" waves-effect"><i class="lab la-twitter"></i></a></li>
+                                        <li><a href="https:///www.youtube.com/phptravels" target="_blank" class=" waves-effect"><i class="lab la-youtube"></i></a></li>
+                                        <li><a href="https://wa.me/13333334444" target="_blank" class=" waves-effect"><i class="lab la-whatsapp"></i></a></li>
+                                        <li><a href="https://www.google.com/maps/dir//phptravels+google+maps/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x391905dd3eef0e45:0x25db87dacf506c66?sa=X&amp;ved=2ahUKEwjn76Pn55DkAhWARhUIHVEvAEcQ9RcwGHoECA4QDg" target="_blank" class=" waves-effect"><i class="lab la-google-plus"></i></a></li>
+                                        <li><a href="https://www.instagram.com/phptravels_insta/" target="_blank" class=" waves-effect"><i class="lab la-instagram"></i></a></li>
+                                       </ul>
+                </div>
+            </div><!-- end col-lg-4 -->
+        </div><!-- end row -->
+    </div><!-- end container -->
+    <div class="section-block mt-4"></div>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-12">
+                <div class="copy-right-content d-flex align-items-center justify-content-end padding-top-30px">
+                    <h3 class="font-size-15" style="width:100%">
+                    <!-- ********************   Removing powered by linkback will result to cancellation of your support service.    ********************  -->
+                    <div class="d-none d-md-block" style="padding:0px;position:relative">
+                    <div class="container">
+                    <div class="text-center">Powered by &nbsp;<a href="http://www.phptravels.com" target="_blank" class=" waves-effect"> <img src="https://www.phptravels.net/api/uploads/global/phptravels.png" style="height:22px;display: inline-block; -webkit-transform: translateY(0px);transform: translateY(0px);" height="22" alt="PHPTRAVELS"> <strong>&nbsp;PHPTRAVELS</strong></a> v8</div>
+                    </div>
+                    </div>
+                    <!-- ********************   Removing powered by linkback will result to cancellation of your support service.    ********************  -->
+                    </h3>
+                    <img src="https://www.phptravels.net/app/themes/default/assets/img/payment-img.png" alt="">
+                </div><!-- end copy-right-content -->
+            </div><!-- end col-lg-5 -->
+        </div><!-- end row -->
+    </div><!-- end container -->
+</section>
+
+
+
+<div id="cookie_disclaimer" data-wow-duration="0.5s" data-wow-delay="5s" role="dialog" class="wow  fadein_ fadeIn cc-window cc-banner cc-type-info cc-theme-block cc-color-override--1961008818">
+<div class="container">
+<div class="cookies_bg">
+<span id="cookieconsent:desc" class="cc-message">This website uses cookies to ensure you get the best experience on our website <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link waves-effect" href="https://www.phptravels.net/cookies-policy" rel="noopener noreferrer nofollow" target="_blank">Learn more</a></span>
+<div class="cc-compliance text-right float-right">
+<button class="cc-btn cc-dismiss waves-effect" id="cookie_stop">Got It</button></div>
+</div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+$(function(){
+     $('#cookie_stop').click(function(){
+        $('#cookie_disclaimer').slideUp();
+        var nDays = 999;
+        var cookieName = "disclaimer";
+        var cookieValue = "true";
+        var today = new Date();
+        var expire = new Date();
+        expire.setTime(today.getTime() + 3600000*24*nDays);
+        document.cookie = cookieName+"="+escape(cookieValue)+";expires="+expire.toGMTString()+";path=/";
+     });
+
+});
+</script>
+
+<!-- javascript resouces and libs -->
+<script src="https://www.phptravels.net/app/themes/default/assets/js/jquery-ui.js"></script>
+<script src="https://www.phptravels.net/app/themes/default/assets/js/bootstrap.bundle.min.js"></script>
+<script src="https://www.phptravels.net/app/themes/default/assets/js/moment.min.js"></script>
+<script src="https://www.phptravels.net/app/themes/default/assets/js/owl.carousel.min.js"></script>
+<script src="https://www.phptravels.net/app/themes/default/assets/js/jquery.fancybox.min.js"></script>
+<script src="https://www.phptravels.net/app/themes/default/assets/js/jquery.countTo.min.js"></script>
+<script src="https://www.phptravels.net/app/themes/default/assets/js/animated-headline.js"></script>
+<script src="https://www.phptravels.net/app/themes/default/assets/js/quantity-input.js"></script>
+<script src="https://www.phptravels.net/app/themes/default/assets/js/select2.js"></script>
+<script src="https://www.phptravels.net/app/themes/default/assets/js/main.js"></script>
+<script src="https://www.phptravels.net/app/themes/default/assets/js/app.js"></script>
+
+
+
+<script>
+// homepage tab rearrange and make first one active default
+$(".listitems li").sort(sort_li).appendTo('.listitems'); function sort_li(a, b) { return ($(b).data('position')) < ($(a).data('position')) ? 1 : -1;};
+$('.nav-tabs .nav-item:first-child button').addClass('active');
+$('.search_tabs .tab-pane:first-child').addClass('show active');
+
+// select 2 location init for hotels search 
+var $ajax = $(".city");
+function formatRepo(t) {  return t.loading ? t.text : (console.log(t), '<i class="flag ' + t.icon.toLowerCase() + '"></i>' + t.text) }
+function formatRepoSelection(t) { return t.text }
+$ajax.select2({
+    ajax: {
+        url: "https://www.phptravels.net/hotels_locations",
+        dataType: "json",
+        data: function(t) {
+            return {
+                q: $.trim(t.term)
+            }
+        },
+        processResults: function(t) {
+            var e = [];
+            return t.forEach(function(t) {
+                e.push({
+                    id: t.id,
+                    text: t.text,
+                    icon: t.icon
+                })
+            }), console.log(e), {
+                results: e
+            }
+        },
+        cache: !0
+    },
+    escapeMarkup: function(t) {
+        return t
+    },
+    minimumInputLength: 3,
+    templateResult: formatRepo,
+    templateSelection: formatRepoSelection,
+    dropdownPosition: 'below',
+    cache: !0
+});
+</script>
+
+<script>
+$('.select_').select2({ placeholder: { id: '1', text: 'Select Category' } });
+$('.select2-container').css('width','100%')
+$('#select').select2({ placeholder: { id: '1', text: 'Select Category' } });
+
+$('#email_subscribe').click(function() { 
+    let S_email = $('#exampleInputEmail1').val();
+        if(S_email != 0)
+        {
+            if(isValidEmailAddress(S_email))
+            {$.ajax({type: "GET",
+                url: "https://www.phptravels.net/subscribe",
+                data: {S_email:S_email},
+                success: function(response)
+                {res= JSON.parse(response);
+                if (res.error) {
+                $('.wow').text("Please add email!");
+                $(".newstext").fadeIn(3000);$(".newstext").fadeOut(3000);
+                }else{if(res.status == true){
+                $('.wow').text("Thank you for subscription");
+                $(".newstext").fadeIn(3000);$(".newstext").fadeOut(3000);
+                $('#exampleInputEmail1').val('');
+                }else{
+                $('.wow').text("Email exist");
+                $(".newstext").fadeIn(3000);$(".newstext").fadeOut(3000);
+                $('#exampleInputEmail1').val('');}}}
+                });
+            } else {
+            $('.wow').text("Please add correct email!");
+            $(".newstext").fadeIn(3000);$(".newstext").fadeOut(3000);
+            }
+        } else {
+            $('.wow').text("Please add email!");
+            $(".newstext").fadeIn(3000);$(".newstext").fadeOut(3000);}
+    });
+
+function isValidEmailAddress(emailAddress) {
+var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+return pattern.test(emailAddress);
+}
+</script>
+
+<link rel="stylesheet" href="https://www.phptravels.net/modules/app.css">
+
+
+</body></html>

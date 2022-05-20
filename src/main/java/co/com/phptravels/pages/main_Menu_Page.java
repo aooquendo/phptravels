@@ -8,18 +8,16 @@ import org.openqa.selenium.support.FindBy;
 @DefaultUrl("https://www.phptravels.net/login")
 public class main_Menu_Page extends PageObject {
 
-    @FindBy(xpath = "//*[contains(@href,'https://www.phptravels.net/account/add_funds')]")
+    @FindBy(linkText = "Add Funds")
     WebElement clickAddFound;
 
-    @FindBy(xpath = "//*contains(@id, 'gateway_bank-transfer'")
+    @FindBy(id = "gateway_bank-transfer")
     WebElement bankTransferCheckBox;
 
-    @FindBy(xpath = "//*contains(@id, 'submit'")
+    @FindBy(xpath = "//*[contains(text(), 'Pay Now')]")
     WebElement btnPayNow;
-
-    @FindBy(xpath = "//*[contains(text(), 'Western Bank CBP')]")
-    WebElement textBankName;
-
+    @FindBy(className = "card-header")
+    WebElement titleBank;
 
     public void selectAddFound(){
         clickAddFound.click();
@@ -34,7 +32,8 @@ public class main_Menu_Page extends PageObject {
     }
 
     public String getBankTitle(){
-       return btnPayNow.getText();
+         return titleBank.getText();
+
     }
 
 }

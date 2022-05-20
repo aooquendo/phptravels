@@ -2,17 +2,9 @@
 <testsuite name="co.com.phptravels.runners.phptravelsRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="QV-3554" time="0.0">
   <properties/>
   <system-out><![CDATA[
-?[31mFailed scenarios:?[0m
-file:///C:/Users/QVUser/Documents/Projects/phptravels/src/test/resources/features/phptravels_Add_Founds.feature:4 # Add founds succes
-
-1 Scenarios (?[31m1 failed?[0m)
-8 Steps (?[31m1 failed?[0m, ?[36m7 skipped?[0m)
-0m1,134s
-
-
-java.lang.NullPointerException: Cannot invoke "co.com.phptravels.steps.phptravels_Add_Founds_Page.openLoginPage()" because "this.addFounds" is null
-	at co.com.phptravels.stepdefinitions.phptravels_Add_Founds_StepDefinitions.iWantToAddFoundsToMyAccountILoginToTheSystem(phptravels_Add_Founds_StepDefinitions.java:12)
-	at ?.i want to add founds to my account i login to the system(file:///C:/Users/QVUser/Documents/Projects/phptravels/src/test/resources/features/phptravels_Add_Founds.feature:5)
+1 Scenarios (?[32m1 passed?[0m)
+8 Steps (?[32m8 passed?[0m)
+0m19,556s
 
 
 ]]></system-out>
@@ -34,8 +26,8 @@ java.lang.NullPointerException: Cannot invoke "co.com.phptravels.steps.phptravel
 -------------------------------------------------------------------------------------
 
 [Test worker] INFO  - Test Suite Started: Add founds
-[pool-1-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@2b2f5fcf: Generating report for test outcome: Add founds:Add founds succes
-[pool-2-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@709ed6f3: Generating report for test outcome: Add founds:Add founds succes
+[pool-1-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@52285a5f: Generating report for test outcome: Add founds:Add founds succes
+[pool-2-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@43fd77d8: Generating report for test outcome: Add founds:Add founds succes
 [Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Cleanup test resources for URI file:///C:/Users/QVUser/Documents/Projects/phptravels/src/test/resources/features/phptravels_Add_Founds.feature
 ]]></system-err>
 </testsuite>

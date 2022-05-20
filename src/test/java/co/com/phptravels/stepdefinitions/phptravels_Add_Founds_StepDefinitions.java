@@ -9,7 +9,7 @@ import net.thucydides.core.annotations.Steps;
 public class phptravels_Add_Founds_StepDefinitions {
     @Steps
     phptravels_Add_Founds_Page addFounds;
-    
+
     @Given("i want to add founds to my account i login to the system")
     public void iWantToAddFoundsToMyAccountILoginToTheSystem() {
        addFounds.openLoginPage();
@@ -45,8 +45,8 @@ public class phptravels_Add_Founds_StepDefinitions {
        addFounds.selectPayNow();
     }
 
-    @Then("i should see an electronic bill with the name back {string}")
-    public void iShouldSeeAnElectronicBillWithTheNameBack(String bankTitle) {
-        addFounds.getBankName(bankTitle);
+    @Then("i should see an electronic bill with the bank name")
+    public void iShouldSeeAnElectronicBillWithTheBankName() {
+        addFounds.getBankName();
     }
 }

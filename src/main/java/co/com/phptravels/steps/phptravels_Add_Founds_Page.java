@@ -47,7 +47,7 @@ public class phptravels_Add_Founds_Page {
     }
 
     @Step
-    public void getBankName(String bankName){
-        Assert.assertEquals(menu.getBankTitle(), bankName);
+    public void getBankName(){
+        Assert.assertEquals("Pay With Bank Transfer USD 50.00", menu.getBankTitle());
     }
 }

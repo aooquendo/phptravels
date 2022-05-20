@@ -23,7 +23,7 @@ public class signUp_Page extends PageObject {
     @FindBy(xpath = "//*[contains(@name, 'password')]")
     WebElement passwordBox;
 
-    @FindBy(xpath = "//*[contains(@type, 'submit')]")
+    @FindBy(xpath = "//*[contains(text(), 'submit')]")
     WebElement btnSigUp;
 
 

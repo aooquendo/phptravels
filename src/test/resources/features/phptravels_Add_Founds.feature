@@ -9,4 +9,4 @@ Feature: Add founds
     And   i should see the main menu and select the add found option in the menu
     And   i choose the pay bank transfer option
     And   i select pay now option
-    Then  i should see an electronic bill with the name back " Western Bank CBP"
+    Then  i should see an electronic bill with the bank name
