@@ -4,11 +4,11 @@
   <system-out><![CDATA[
 1 Scenarios (?[32m1 passed?[0m)
 8 Steps (?[32m8 passed?[0m)
-0m19,556s
+0m18,809s
 
 
 ]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/QVUser/Documents/Projects/phptravels/src/test/resources/features/phptravels_Add_Founds.feature
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/QVUser/Documents/Projects/phptravels/src/test/resources/features/phptravels_SignUp_Agent_Account.feature
 [Test worker] INFO  - 
 
 -------------------------------------------------------------------------------------
@@ -25,9 +25,9 @@
  Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
 -------------------------------------------------------------------------------------
 
-[Test worker] INFO  - Test Suite Started: Add founds
-[pool-1-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@52285a5f: Generating report for test outcome: Add founds:Add founds succes
-[pool-2-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@43fd77d8: Generating report for test outcome: Add founds:Add founds succes
-[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Cleanup test resources for URI file:///C:/Users/QVUser/Documents/Projects/phptravels/src/test/resources/features/phptravels_Add_Founds.feature
+[Test worker] INFO  - Test Suite Started: SigUp an Agent account
+[pool-1-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@9f1ca74: Generating report for test outcome: SigUp an Agent account:SignUp agent account succes
+[pool-2-thread-1] INFO net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@4a520f05: Generating report for test outcome: SigUp an Agent account:SignUp agent account succes
+[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Cleanup test resources for URI file:///C:/Users/QVUser/Documents/Projects/phptravels/src/test/resources/features/phptravels_SignUp_Agent_Account.feature
 ]]></system-err>
 </testsuite>

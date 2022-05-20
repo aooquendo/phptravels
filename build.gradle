@@ -26,9 +26,6 @@ buildscript {
     }
 }
 
-serenity {
-    reports = ["single-page-html"]
-}
 
 dependencies {
     implementation "net.serenity-bdd:serenity-core:${serenityCoreVersion}"
